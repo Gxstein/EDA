@@ -1,6 +1,6 @@
 # Entrada de dados do usuário
 
-nome = input("Digite seu nome: ")
+nome = str(input("Digite seu nome: "))
 
 idade = int(input("Digite sua idade: "))
 
